@@ -2,4 +2,4 @@
 HISE script for Kawai Upright Piano Released By Rudi Fiasco.
 Sustain pedal and release triggers not programmed.
 
-Download link https://archive.org/details/K18UprightPiano
+Library download link https://archive.org/details/K18UprightPiano
